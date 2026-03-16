@@ -468,6 +468,7 @@ Ben
 - [Dojeman1234](https://github.com/Dojeman123)
 - [Domenico Vecchio](https://github.com/domenico-vecchio)
 - [Dominic](https://github.com/mozz37)
+- [Amar kaluhe]
 - [Dorcas Adebayor](https://github.com/dokipure)
 - [Douae Bousnane](https://github.com/douaebousnane13-del)
 - [Duo](https://github.com/NamingRacksMyBrain)
